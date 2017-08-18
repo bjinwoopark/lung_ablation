@@ -1,0 +1,1 @@
+C:\Users\Brian\Desktop\lung ablation\New Unity Project\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Debug\ARM\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache

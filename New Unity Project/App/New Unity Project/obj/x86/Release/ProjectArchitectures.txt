@@ -1,0 +1,4 @@
+C:\Users\Brian\Desktop\lung ablation\New Unity Project\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Brian\Desktop\lung ablation\New Unity Project\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Brian\Desktop\lung ablation\New Unity Project\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Brian\Desktop\lung ablation\New Unity Project\App\New Unity Project\New Unity Project.csproj;x86
